@@ -23,7 +23,7 @@ This project implements real-time face detection using Python and OpenCV. It cap
 3. **Run the Script**: Execute the Python script to start real-time face detection:
 
    ```bash
-   python real_time_face_detection.py
+   python Face_Capture.py
    ```
 4. **Controls**:
    - Press q to exit the application.
